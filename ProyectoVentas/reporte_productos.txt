@@ -1,0 +1,3 @@
+Router;13
+Celular;10
+Portatil;8

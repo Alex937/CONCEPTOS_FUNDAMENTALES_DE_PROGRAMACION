@@ -1,0 +1,3 @@
+CC;1000000000;Leonardo;Medina
+CC;1000000001;Omar;Acosta
+CC;1000000002;Natalia;Parra

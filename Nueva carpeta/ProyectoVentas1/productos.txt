@@ -1,7 +1,0 @@
-100;Portatil;2800000
-101;Celular;750000
-102;Televisor;1280000
-103;Auriculares;50000
-104;Teclado USB;40000
-105;Mouse usb;21000
-106;Router;150000
